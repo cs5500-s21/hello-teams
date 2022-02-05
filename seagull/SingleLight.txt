@@ -1,0 +1,1 @@
+DND/Text adventure Bot, a bot that allows the users to play DND as a text adventure game, the bot itself will work as a game master.
