@@ -1,0 +1,1 @@
+UnoBot, a bot that allows you to play uno with friends. It will send you a private DM with your hand at the beginning of each turn and you can choose which card(s) to play. It will let everyone know what card was played and whose turn is next.
