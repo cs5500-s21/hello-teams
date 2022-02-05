@@ -1,0 +1,5 @@
+TriviaBot, a bot that runs multi-player trivia sessions and keeps track of performance / top players on the server
+FinancialBot, a bot that keeps track of your monthly expenses by categories based on your expenditure inputs, meanwhile showing your average expenses and monthly spending trend. 
+TravelBot, a bot that helps users to search a dream vacation destination, book flights and hotels, and sketch a detailed travel itinerary.
+PetmeBot, a bot that provides restaurants, parks, malls and hotels with pet-friendly policies based on the user input of time and location.
+
