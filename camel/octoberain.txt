@@ -1,0 +1,3 @@
+WhatToEatBot - a bot that recommends lunch/dinner ideas for users who’re not sure about what to eat by providing a short series of questions to help users find their taste for the day.
+
+TaskManagerBot - a bot that acts as a user’s personal tasks assistance by helping users create tasks, tracking task status, finding available time spots for a range of time, generating a TODO tasks plan for a range of time specified, etc.
