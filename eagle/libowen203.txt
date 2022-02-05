@@ -1,0 +1,2 @@
+MusicPlayerBot - a bot that allow users to upload media files and play the 
+music picked by users. Let all users listen to the music and chat together.
