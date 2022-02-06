@@ -1,0 +1,2 @@
+MovieBot, a bot that can show ticket price, showtime, duration and other related information of a movie to users.
+MusicBot, a bot that recommends songs to users based on their listening history and preference. 
