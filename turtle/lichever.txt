@@ -1,0 +1,2 @@
+MusicBot - a bot that lets you play music from some available sources, like
+Youtube and Spotify.
