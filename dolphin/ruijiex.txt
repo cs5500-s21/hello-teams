@@ -1,0 +1,1 @@
+StockBot: a bot that helps users pull stock price information while chatting
