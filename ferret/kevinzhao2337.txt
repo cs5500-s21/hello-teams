@@ -1,0 +1,2 @@
+CasinoBot
+MovieBot, a bot that can show ticket price, showtime, duration and other related information of a movie to users.
