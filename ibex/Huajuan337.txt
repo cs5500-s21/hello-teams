@@ -1,3 +1,1 @@
-Write something! 
-
-
+moviebot is a bot help user to track movie's information, like genere, rating, cast, etc.  
