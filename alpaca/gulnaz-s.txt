@@ -1,0 +1,1 @@
+TriviaBot - a bot to play Trivia games.
