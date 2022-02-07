@@ -1,2 +1,2 @@
-CasinoBot
+CasinoBot: a bot that for user playing casino games
 
