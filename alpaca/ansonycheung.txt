@@ -1,0 +1,9 @@
+Collected team's bot options:
+
+TriviaBot, a bot to play Trivia games. (Gulnaz)
+
+UnoBot, a bot that allows you to play uno with friends. It will send you a private DM with your hand at the beginning of each turn and you can choose which card(s) to play. It will let everyone know what card was played and whose turn is next. (Camille)
+
+PokeBot, a bot that replicates some of the core actions of Pokemon, such as catching, training, breeding, etc. (Chris)
+
+CostShareBot, a bot that helps to split the costs in a group. For example, you travel with friends, and one of you pays for groceries, one for gas, one for coffee. You basically add expenses to the bot, and it is doing all calculations for you (splitting, showing how much you owe, etc.) (Gulnaz)
