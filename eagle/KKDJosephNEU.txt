@@ -1,0 +1,9 @@
+BRPBot. a bot that will support keeper (KP) when you are playing the BRP game. 
+The bot will record users’ information, users’ choice, help users to roll the dice, play the background music, 
+show the pictures related to the background story, send secret messages to the users. 
+
+What is BRP games: A table top role playing game. Players will create their roles under limited resources. 
+They will use their skills and roll dices to finish their missions. Like Call of Cthuluh(COC), Dungeons & Dragons(D&D).
+
+What is KP: Keeper, Dungeon maste(DM), the master of the game, 
+the one who help all the players continue game process but not one of the players.
